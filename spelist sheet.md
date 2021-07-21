@@ -1,3 +1,1 @@
-
-
-{google_docs}https://docs.google.com/document/d/16PjGi9uiqcupo0wrS1F3r_DbiZ1knnydmdc5i75IAW4/edit?usp=sharing|lang:system{/google_docs}
+{google_docs}<iframe src="https://docs.google.com/document/d/e/2PACX-1vQ0VGxILRF3oVsk4Pu1w0bPRc6t8sVh_tpuDMy_DQUnYD3Erya2xNeeucnzx5llOsMC8vzrYdpwJlQb/pub?embedded=true"></iframe>{/google_docs}
